@@ -29,4 +29,24 @@ O carrinho é limpo após a compra ser concluída.
 ---
 
 ##  Estrutura do Projeto
+Funções principais:
+- `calcular_total(lista_carrinho)`: soma os valores dos itens do carrinho.  
+- `pausar()`: pausa o sistema até o usuário pressionar Enter.
 
+---
+## 💻 Tecnologias Utilizadas
+
+- **Linguagem:** Python 3  
+- **Paradigma:** Programação Estruturada  
+- **Execução:** Terminal / Prompt de Comando  
+
+---
+## 🚀 Como Executar o Projeto
+
+1. Certifique-se de ter o **Python 3** instalado.  
+2. Baixe ou clone este repositório:
+   ```bash
+   git clone https://github.com/SEU-USUARIO/supermercado-python.git
+   
+3. Acesse a pasta do projeto: cd supermercado-python
+4. Execute o programa: python supermercado.py
