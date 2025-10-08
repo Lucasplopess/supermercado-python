@@ -49,7 +49,6 @@ O carrinho é limpo após a compra ser concluída.
 2. Baixe ou clone este repositório:
    ```bash
    git clone https://github.com/Lucasloppess/supermercado-python.git
-   ```markdown
 3. Acesse a pasta do projeto:
    ```bash
    cd supermercado-python
